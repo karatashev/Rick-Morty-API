@@ -1,7 +1,7 @@
 # Rick-Morty-API
 Rick &amp; Morty API 
 
-deployed here : 
+Check the page here : https://rick-and-morty-characters-api.netlify.app/
 
 Simple page that shows the characters from Rick and Morty using HTML, CSS, Javascript and Rick and Morty API that you can find here:
 https://rickandmortyapi.com/
